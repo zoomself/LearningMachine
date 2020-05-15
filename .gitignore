@@ -1,1 +1,5 @@
 .idea
+core/advance/generate/pre_train_model_architecture
+core/advance/generate/logs
+core/advance/generate/data
+/core/advance/generate/data/
